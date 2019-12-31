@@ -1,12 +1,12 @@
 {
     "products": [
       {
-          "id": "ghost-whey-x-chips-ahoy",
+          "id": 1,
           "name": "Ghost Whey X Chips Ahoy",
           "price": "$39.99",
         },
         {
-          "id": "ghost-whey-vegan",
+          "id": 2,
           "name": "GHOST Vegan Protein",
           "price": "$49.99",
         },
