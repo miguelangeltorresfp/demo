@@ -1,14 +1,22 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+         {
+          "id": "ghost-whey-x-chips-ahoy",
+          "name": "Ghost Whey X Chips Ahoy",
+          "category": "Protein",
+          "details":
+            "We've said it before and we will say it again, nothing beats the real thing. With years of R&D (we ate a ton of cookies) and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
+          "price": "$39.99",
+          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/image.png?v=1571331841"
+        },
+        {
+          "id": "ghost-whey-vegan",
+          "name": "GHOST® Vegan Protein",
+          "category": "Protein",
+          "details":
+            "GHOST® Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+          "price": "$49.99",
+          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+        }
+  ]
 }
