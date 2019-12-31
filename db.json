@@ -1,8 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "products": [
+       {
+          "id": "ghost-whey-x-chips-ahoy",
+          "name": "Ghost Whey X Chips Ahoy",
+          "price": "$39.99",
+          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/image.png?v=1571331841"
+        },
+      {
+          "id": "ghost-whey-vegan",
+          "name": "GHOST® Vegan Protein",
+          "price": "$49.99",
+          "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/Vegan.png?v=1574882358"
+        }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
